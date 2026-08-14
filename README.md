@@ -24,7 +24,8 @@ the repository root:
 python demo.py
 ```
 
-
+## Citation
+If you find this work useful, please consider citing:
 ```bibtex
 @article{Xiao2026SCUARP,
   author    = {Deng, Juan and Xiao, Luxi and Liu, Shujun},
