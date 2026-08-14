@@ -1,0 +1,33 @@
+# Python and local environments
+__pycache__/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.DS_Store
+
+# Raw data and generated experiment artifacts
+datasets/*
+!datasets/README.md
+results/*
+!results/README.md
+save/
+Figures/
+*.mat
+*.pth
+*.pt
+*.ckpt
+*.log
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.npy
+*.npz
+*.zip
+/*.csv
+
+# Local editor and sweep state
+.vscode/
+*.pid
+nohup.out
