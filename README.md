@@ -8,9 +8,6 @@ Install a PyTorch build that matches the CUDA version on the machine, then
 install the remaining dependencies:
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
