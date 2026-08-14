@@ -7,10 +7,8 @@ env/
 .DS_Store
 
 # Raw data and generated experiment artifacts
-datasets/*
-!datasets/README.md
+datasets
 results/*
-!results/README.md
 save/
 Figures/
 *.mat
