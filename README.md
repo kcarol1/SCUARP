@@ -14,12 +14,7 @@ python -m pip install -r requirements.txt
 This release was sanity-checked with Python 3.9.21, PyTorch 2.5.1, NumPy 2.0.2,
 SciPy 1.13.1, and scikit-learn 1.6.0.
 
-## Running the paper demo
-
-`demo.py` intentionally keeps the original direct-run workflow. There is no new
-command-line interface: select one dataset by editing the configuration blocks
-near the top of the file, keep only one block active, and run the script from
-the repository root:
+## Run
 
 ```bash
 python demo.py
