@@ -10,7 +10,7 @@ import numpy as np
 import torch
 import torch.nn.functional as F
 from utils import metric, initialization_utils
-from DSUAGSC import netw, CustomDataset, load_multimodal_data, Encoder, Decoder, band_encoder
+from SCUAPR import netw, CustomDataset, load_multimodal_data, Encoder, Decoder, band_encoder
 import matplotlib.pyplot as plt
 from torch.utils.data import DataLoader
 from tqdm import tqdm
